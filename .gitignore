@@ -1,0 +1,6 @@
+**/__pycache__ 
+**/.DS_Store
+**/.env
+**/.ipynb_checkpoints
+**/model_history.py
+**/archive
